@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("What is your name?");
+	printf("What is your surname?");
 	return 0;
 }
