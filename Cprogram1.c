@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("marchza55+");
-	printf("paulza555+");
+	printf("srskmarch");
+	printf("schnnpaul");
 	return 0;
 }s
