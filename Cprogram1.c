@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("What is your rtyu?");
-	printf("zsxdrcftvgy");
+	printf("marchza55+");
+	printf("paulza555+");
 	return 0;
 }
