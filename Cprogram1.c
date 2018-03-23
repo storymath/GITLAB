@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("What is your zxccvbbnm?");
-	printf("Its zxczxc");
+	printf("marchza55+");
+	printf("paulza555+");
 	return 0;
 }s
