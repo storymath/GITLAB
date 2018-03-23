@@ -2,8 +2,8 @@
 
 int main()
 {
-	int A = 10, B = 20, C;
-	printf("Hello Wrold");
+	int A = 100, B = 200, C;
+	printf("HaHaHaHaHa");
 	C = A - B;
 	printf("C : %d",C);
 	
